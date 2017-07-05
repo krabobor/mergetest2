@@ -14,6 +14,7 @@ namespace mergeTestApp
             Console.WriteLine("1!");
             Console.WriteLine("4!");
             Console.WriteLine("5!");
+            Console.WriteLine("6!");
 
             Console.ReadLine();
         }
